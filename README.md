@@ -28,7 +28,7 @@ He can't move in opposite direction. Hence, he is able to move from Seoul to Ans
 
 
 ## Formulation & Modeling
-[here]()
+[here](https://github.com/taegyumin/Boobosang/blob/master/Formulation_and_Modeling.ipynb)
 
 ### decision variables
     cities C = {0:Pyongyang, 1:Kaesong, 2:Seoul, 3:Anseong, 4:Daejeon, 5:Geumsan, 6:Seongju, 7:Daegu, 8:Busan}
