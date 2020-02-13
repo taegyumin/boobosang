@@ -28,16 +28,7 @@ He can't move in opposite direction. Hence, he is able to move from Seoul to Ans
 
 
 ## Formulation & Modeling
-[here]()
-
-### decision variables
-    cities C = {0:Pyongyang, 1:Kaesong, 2:Seoul, 3:Anseong, 4:Daejeon, 5:Geumsan, 6:Seongju, 7:Daegu, 8:Busan}
-    V_c = 1 if he visit the city c else 0
-    x_ij = the amount he buy in city i and sell in city j
-
-### Objective Function
-### Constraints
+[here](https://github.com/taegyumin/Boobosang/blob/master/Formulation_and_Modeling.ipynb)
 
 ## Computation & Result
 [here]()
-### Optimal Solution
