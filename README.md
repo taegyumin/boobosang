@@ -11,16 +11,14 @@ There is a retailer man who will leave **Pyongyang** and go to **Busan**. The ma
 
 He can visit the following 7 cities sequentially: **Kaesong, Seoul, Anseong, Daejeon, Geumsan, Seongju** and **Daegu**. He start journey in **Pyongyang** and end in **Busan**.
 
-He decides which cities to visit in consideration of the value of local specialties.
-
-For example, if the pear which is a specialty in Anseong is undervalued or the profit is low due to low demand for the pear, he can skip to visit Anseong and go straight to Daejeon.
+He decides which cities to visit in consideration of the value of local specialties. For example, if the profit is low due to low demand for the pear which is a specialty in Anseong, he can skip to visit Anseong and go straight to Daejeon.
 
 He can't move in opposite direction. Hence, he is able to move from Seoul to Anseong, but not to Kaesong.
 
 - [1] Prices of specialty products are as high as the distance from purchased areas. See the given data.
 - [2] Each specialty has a different weight, and the sum of weight he can carry is up to 100 kilograms.
 - [3] There is a limit to the quantity to purchase available for each local specialty. See the given data.
-- [4] The more he carries, the longer he travels, the more moving costs increase. His movement cost is `$0.1` per 1 km, and another `$0.1` (additional cost) if he walks 1km carrying a kilogram of specialty products. If he move 10km with 10kg bundle, the cost of moving is $11.
+- [4] The more he carries, the longer he travels, the more moving costs increase. His movement cost is \$0.1 per 1 km, and another \$0.1 (additional cost) if he walks 1km carrying a kilogram of specialty products. If he move 10km with 10kg bundle, the cost of moving is $11.
 - [5] When he arrives in a new city, he sells as many specialties as he wants and then purchases the specialties of the city he arrived in.
 - [6] When he moves to the next city after completing a transaction in the city, there is a cost of transportation to the next city.
 - [7] He starts with a capital of $400 in the Pyongyang.
